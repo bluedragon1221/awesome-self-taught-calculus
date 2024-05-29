@@ -1,6 +1,8 @@
 # Awesome Self-Taught Calculus
 > I bet you can't learn calculus without taking a Calculus course
+
 > Bet!
+
 I'll try to track my progress here.
 As I learn new concepts, I'll link to the videos that I watch.
 
