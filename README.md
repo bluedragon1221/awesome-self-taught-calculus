@@ -20,9 +20,10 @@
 	5. [Locating a tangent](https://www.youtube.com/watch?v=BDNQ-_vwxHo)
 - [Derivative formulas through geometry - 3Blue1Brown](https://www.youtube.com/watch?v=S0_qX4VJhMQ)
 - [Homework 1 - Derivatives](https://www.math.ksu.edu/~kgrossni/Derivatives.pdf)
-- TODO
-	- Chain Rule
-	- Product Rule
+
+## TODO
+- Chain Rule
 	- https://www.youtube.com/watch?v=YG15m2VwSjA
 	- https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/a/chain-rule-review
-	- Quotient Rule
+- Product Rule
+- Quotient Rule
