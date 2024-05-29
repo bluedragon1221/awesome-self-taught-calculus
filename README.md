@@ -1,3 +1,9 @@
+# Awesome Self-Taught Calculus
+> I bet you can't learn calculus without taking a Calculus course
+> Bet!
+I'll try to track my progress here.
+As I learn new concepts, I'll link to the videos that I watch.
+
 ## History of Calculus / Primer
 - [The Lore Behind Calculus - Well Rested Dog](https://www.youtube.com/watch?v=5M2RWtD4EzI)
 	- [Timeline of Calculus](https://www.desmos.com/calculator/txixcghvyc)
