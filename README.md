@@ -47,5 +47,5 @@ As I learn new concepts, I'll link to the videos that I watch.
  	2. [Introducing a Substitution](https://www.youtube.com/watch?v=36vd04tDITU)
   	3. [Simple Example](https://www.youtube.com/watch?v=FIOp9fyVvt0)
   	4. [Working with Square Roots](https://www.youtube.com/watch?v=jbdyA9rId2g)
-  - [Chain Rule - Khan Academy](https://www.youtube.com/watch?v=0T0QrHO56qg)
+- [Chain Rule - Khan Academy](https://www.youtube.com/watch?v=0T0QrHO56qg)
 
