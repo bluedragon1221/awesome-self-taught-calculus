@@ -13,7 +13,7 @@ As I learn new concepts, I'll link to the videos that I watch.
 - [Calculus at a 5th Grade Level - Lukey B. The Physics G](https://www.youtube.com/watch?v=TzDhdvVg9_c)
 - [The Essence of Calculus - 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM)
 ## Derivatives
-- [The paradox of the derivative](https://www.youtube.com/watch?v=9vKqVkMQHKk)
+- [The paradox of the derivative - 3Blue1Brown](https://www.youtube.com/watch?v=9vKqVkMQHKk)
 - Prologue to Calculus - Eddie Woo
 	1. [How fast did Usain Bolt run?](https://www.youtube.com/watch?v=NRSmIE5MMBQ)
 	2. [How can we measure more accurately?](https://www.youtube.com/watch?v=JB8DJOfMEMs)
@@ -27,11 +27,25 @@ As I learn new concepts, I'll link to the videos that I watch.
 	4. [Considering the gradient function visually](https://www.youtube.com/watch?v=Ye8lTUo4k0g)
 	5. [Locating a tangent](https://www.youtube.com/watch?v=BDNQ-_vwxHo)
 - [Derivative formulas through geometry - 3Blue1Brown](https://www.youtube.com/watch?v=S0_qX4VJhMQ)
-- [Homework 1 - Derivatives](https://www.math.ksu.edu/~kgrossni/Derivatives.pdf)
 
-## TODO
-- Chain Rule
-	- https://www.youtube.com/watch?v=YG15m2VwSjA
-	- https://www.khanacademy.org/math/ap-calculus-ab/ab-differentiation-2-new/ab-3-1a/a/chain-rule-review
-- Product Rule
-- Quotient Rule
+### Rules of Differentiation
+- [Visualizing the Chain Rule and the Product Rule - 3Blue1Brown](https://www.youtube.com/watch?v=YG15m2VwSjA)
+
+**Sum Rule**
+- [The Derivative of a Sum - Eddie Woo](https://www.youtube.com/watch?v=hZAS9ilEbEE)
+- [The Sum and Difference Rule for Derivatives](https://www.youtube.com/watch?v=gKCuXnOcKEQ)
+
+**Product Rule**
+- Product Rule - Eddie Woo
+	1. [It's Complicated...](https://www.youtube.com/watch?v=6R3zwV61Uqk)
+ 	2. [Simple Example](https://www.youtube.com/watch?v=tTOKYQd-qL4)
+- [Product Rule - Khan Academy](https://www.youtube.com/watch?v=79ngr0Bur38)
+
+**Chain Rule**
+- Function of a Function Rule - Eddie Woo
+	1. [Expanding Before Differentiating](https://www.youtube.com/watch?v=ro5LlWAc3JU)
+ 	2. [Introducing a Substitution](https://www.youtube.com/watch?v=36vd04tDITU)
+  	3. [Simple Example](https://www.youtube.com/watch?v=FIOp9fyVvt0)
+  	4. [Working with Square Roots](https://www.youtube.com/watch?v=jbdyA9rId2g)
+  - [Chain Rule - Khan Academy](https://www.youtube.com/watch?v=0T0QrHO56qg)
+
