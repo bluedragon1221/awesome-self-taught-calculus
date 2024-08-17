@@ -1,4 +1,6 @@
 # Awesome Self-Taught Calculus
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 > I bet you can't learn calculus without taking a Calculus course
 
 > Bet!
