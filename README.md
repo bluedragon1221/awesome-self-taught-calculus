@@ -35,7 +35,7 @@ As I learn new concepts, I'll link to the videos that I watch.
 
 **Sum Rule**
 - [The Derivative of a Sum - Eddie Woo](https://www.youtube.com/watch?v=hZAS9ilEbEE)
-- [The Sum and Difference Rule for Derivatives](https://www.youtube.com/watch?v=gKCuXnOcKEQ)
+- [The Sum and Difference Rule for Derivatives - AllThingsMathmatics](https://www.youtube.com/watch?v=gKCuXnOcKEQ)
 - [Power, Constant, and Sum Rules Worksheet](https://cdn.kutasoftware.com/Worksheets/Calc/03%20-%20Power%20Constant%20and%20Sum%20Rules.pdf)
 
 **Product Rule**
