@@ -36,21 +36,22 @@ As I learn new concepts, I'll link to the videos that I watch.
 **Sum Rule**
 - [The Derivative of a Sum - Eddie Woo](https://www.youtube.com/watch?v=hZAS9ilEbEE)
 - [The Sum and Difference Rule for Derivatives - AllThingsMathmatics](https://www.youtube.com/watch?v=gKCuXnOcKEQ)
+- [Differentiating Polynomials - Khan Academy](https://youtube.com/watch?v=-CTaxKTzbEI)
 - [Power, Constant, and Sum Rules Worksheet](https://cdn.kutasoftware.com/Worksheets/Calc/03%20-%20Power%20Constant%20and%20Sum%20Rules.pdf)
 
 **Product Rule**
 - Product Rule - Eddie Woo
 	1. [It's Complicated...](https://www.youtube.com/watch?v=6R3zwV61Uqk)
- 	2. [Simple Example](https://www.youtube.com/watch?v=tTOKYQd-qL4)
+	2. [Simple Example](https://www.youtube.com/watch?v=tTOKYQd-qL4)
 - [Product Rule - Khan Academy](https://www.youtube.com/watch?v=79ngr0Bur38)
 - [Product Rule Worksheet](https://cdn.kutasoftware.com/Worksheets/Calc/03%20-%20Product%20Rule.pdf)
 
 **Chain Rule**
 - Function of a Function Rule - Eddie Woo
 	1. [Expanding Before Differentiating](https://www.youtube.com/watch?v=ro5LlWAc3JU)
- 	2. [Introducing a Substitution](https://www.youtube.com/watch?v=36vd04tDITU)
-  	3. [Simple Example](https://www.youtube.com/watch?v=FIOp9fyVvt0)
-  	4. [Working with Square Roots](https://www.youtube.com/watch?v=jbdyA9rId2g)
+	2. [Introducing a Substitution](https://www.youtube.com/watch?v=36vd04tDITU)
+	3. [Simple Example](https://www.youtube.com/watch?v=FIOp9fyVvt0)
+	4. [Working with Square Roots](https://www.youtube.com/watch?v=jbdyA9rId2g)
 - [Chain Rule - Khan Academy](https://www.youtube.com/watch?v=0T0QrHO56qg)
 - [Chain Rule Worksheet](https://cdn.kutasoftware.com/Worksheets/Calc/03%20-%20Chain%20Rule.pdf)
 
