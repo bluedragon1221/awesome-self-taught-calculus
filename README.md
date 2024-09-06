@@ -59,7 +59,13 @@ As I learn new concepts, I'll link to the videos that I watch.
 - [What is the number "e" and where does it come from? - Eddie Woo](https://www.youtube.com/watch?v=pg827uDPFqA)
 - [What's so special about Euler's number e? - 3Blue1Brown](https://www.youtube.com/watch?v=m2MIpDrF7Es)
 - [Why is the derivative of e^x equal to e^x - blackpenredpen](https://www.youtube.com/watch?v=oBlHiX6vrQY)
+- [Chain Rule with Natural Logs and Exponentials Worksheet](https://cdn.kutasoftware.com/Worksheets/Calc/03%20-%20Chain%20Rule%20with%20Natural%20Logs%20Exps.pdf)
 
 ## Integrals
 - [Integration and the fundemental theorem of caluclus - 3Blue1Brown](https://www.youtube.com/watch?v=rfG8ce4nNh0)
 - [What does area have to do with slope? - 3Blue1Brown](https://www.youtube.com/watch?v=FnJqaIESC2s)
+- [Integration Power Rule Worksheet](https://cdn.kutasoftware.com/Worksheets/Calc/05%20-%20Integration%20Power%20Rule.pdf)
+- [Fundemental Theorem of Calculus Worksheet](https://cdn.kutasoftware.com/Worksheets/Calc/06%20-%20First%20Fundamental%20Theorem.pdf)
+
+TODO: add some of this playlist
+https://www.youtube.com/watch?v=RA9hcWcwzk4&list=PL7BV7GwQEAukhHGUUJ6wrCtdBrsQYowG2
