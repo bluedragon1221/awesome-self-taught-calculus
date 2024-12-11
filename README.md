@@ -55,11 +55,11 @@ As I learn new concepts, I'll link to the videos that I watch.
 - [Chain Rule - Khan Academy](https://www.youtube.com/watch?v=0T0QrHO56qg)
 - [Chain Rule Worksheet](https://cdn.kutasoftware.com/Worksheets/Calc/03%20-%20Chain%20Rule.pdf)
 
-## Euler's Number
-- [What is the number "e" and where does it come from? - Eddie Woo](https://www.youtube.com/watch?v=pg827uDPFqA)
-- [What's so special about Euler's number e? - 3Blue1Brown](https://www.youtube.com/watch?v=m2MIpDrF7Es)
+### More Derivatives Stuff
 - [Why is the derivative of e^x equal to e^x - blackpenredpen](https://www.youtube.com/watch?v=oBlHiX6vrQY)
 - [Chain Rule with Natural Logs and Exponentials Worksheet](https://cdn.kutasoftware.com/Worksheets/Calc/03%20-%20Chain%20Rule%20with%20Natural%20Logs%20Exps.pdf)
+
+TODO: Derivatives of trig functions, random derivatives practice
 
 ## Integrals
 - [Integration and the fundemental theorem of caluclus - 3Blue1Brown](https://www.youtube.com/watch?v=rfG8ce4nNh0)
